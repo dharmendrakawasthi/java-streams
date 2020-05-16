@@ -1,4 +1,4 @@
-package com.techendear.lambda;
+package com.techendear.predicate.empmgt;
 
 @FunctionalInterface
 public interface Predicate<T> {
